@@ -13,6 +13,6 @@ elif test $second_num -gt $third_num
 then
 	echo $second_num is the greaatest number.
 else
-	Yakkana
+	manu
 
 fi
