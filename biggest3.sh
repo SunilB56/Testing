@@ -13,5 +13,5 @@ elif test $second_num -gt $third_num
 then
 	echo $second_num is the greaatest number.
 else
-	echo $third_num is the greatest number.
+	No way chance he ella.
 fi
