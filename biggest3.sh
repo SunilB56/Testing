@@ -13,6 +13,10 @@ elif test $second_num -gt $third_num
 then
 	echo $second_num is the greaatest number.
 else
+<<<<<<< Updated upstream
 	manu
+=======
+	suni
+>>>>>>> Stashed changes
 
 fi
